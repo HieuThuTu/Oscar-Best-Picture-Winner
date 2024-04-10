@@ -22,14 +22,14 @@ Studio Producers who are wanting to create a "Best Picture Movie" and therefore,
 
 #  Execution Steps
 
-1. Data Cleaning Consideration:\
+1. Data Cleaning Consideration:
 - Adjust Naming for Craft Categories to be consistent throughout the year.
 - Only consider Timeframe (1940-date) when number of craft categories open for competition to be consistent.
 
-2. Analyzing How Many & What Craft Categories that Best Picture Winner frequently get nominated in:\
+2. Analyzing How Many & What Craft Categories that Best Picture Winner frequently get nominated in:
 * Note: Beforehand, we also consolidate subcategories with equal meaning/importance, to focus on analyzing the film-making craft as a whole.
 
-3. Deep-dive into the Top 5 Craft Categories that Best Picture Winners frequently get nominated in:\
+3. Deep-dive into the Top 5 Craft Categories that Best Picture Winners frequently get nominated in:
   
 4. Applying Conditional Probability to see how nomination in each of the Top 5 Craft Categories would increase % chance of winning Best Picture, for a Best Picture Nominee:
 
