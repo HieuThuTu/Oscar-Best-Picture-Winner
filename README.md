@@ -1,4 +1,4 @@
-# Identify Oscar Best Picture Winners based on its nominations in other craft categories\
+# Identify Oscar Best Picture Winners based on its nominations in other craft categories
 
 #  Project Context:
 The Oscar ceremony is the most prestigious ceremony in cinema that recognizes achievements in various filmmaking craft aspects (such as directing/ acting/ screenplay/ etc.) in the Craft Categories AND finding out the 'best film of the year' in the Best Picture Category.It also inspires an engaging community of movie fans who, like sports fans, are into finding out what movies would win Best Picture.\
