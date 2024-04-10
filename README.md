@@ -9,6 +9,9 @@ Therefore, upon the Oscar Nomination Announcement & before the official ceremony
 Movie Fans who want to see what movie would win Best Picture.
 Studio Producers who are wanting to create a "Best Picture Movie" and therefore, want to see what craft aspect they should focus on.
 
+#  Applied Knowledge
+Python, Pandas, Matplotlib, Seaborn, Tableau + Basic Probability
+
 # Questions to answer:
 1. How many Craft Categories  an eventual Best Picture Winner should have nominations in?
 2. Which Top Craft Categories an eventual Best Picture Winner should have nominations in?
